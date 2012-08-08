@@ -1,0 +1,10 @@
+#################
+## Eclipse
+#################
+
+
+#Mr Developer
+.mr.developer.cfg
+
+# Mac crap
+.DS_Store
