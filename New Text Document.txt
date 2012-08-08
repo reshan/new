@@ -4,6 +4,6 @@ hello buddy updated from server ...!
 
 <?php
 
-echo 'hello world!';
+echo 'hello world hello PHP !';
 
 ?>
