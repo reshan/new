@@ -1,3 +1,9 @@
 dsfsda
 
 hello buddy updated from server ...!
+
+<?php
+
+echo 'hello world!';
+
+?>
